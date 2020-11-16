@@ -3,6 +3,7 @@
 Prerequisites:
 
 * Node.js
+* WebStorm 🔝
 * Android Studio - for Android build
 * XCode - for iOS build
 
@@ -14,7 +15,7 @@ npm install -g @ionic/cli
 ```
 
 
-## Empty Ionic App [📂/empty-app](https://github.com/mild-blue/cee-hacks-2020-app/empty-app)
+## 1. Empty App [📂/empty-app](https://github.com/mild-blue/cee-hacks-2020-app/tree/master/empty-app)
 
 * Created with `ionic start empty-app tabs`. 
 * Execute `npm install` on first run
@@ -54,3 +55,10 @@ ionic cap open ios
 ```
 ionic cap open android
 ```
+
+## 2. Camera App [📂/camera-app](https://github.com/mild-blue/cee-hacks-2020-app/tree/master/camera-app)
+* [Taking photos in Ionic](https://ionicframework.com/docs/angular/your-first-app/2-taking-photos)
+* [Capacitor camera plugin docs](https://capacitorjs.com/docs/apis/camera)
+
+
+
