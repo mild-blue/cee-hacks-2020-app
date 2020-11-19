@@ -3,9 +3,16 @@
 Prerequisites:
 
 * Node.js
+```
+sudo npm install
+```
 * WebStorm 🔝
 * Android Studio - for Android build
 * XCode - for iOS build
+* Angular
+```
+sudo npm install -g @angular/cli
+```
 
 ## Installation
 [Ionic installation docs](https://ionicframework.com/docs/intro/cli)
@@ -22,7 +29,7 @@ npm install -g @ionic/cli
 
 ### Run app locally in browser
 ```
-ng run
+ng serve
 ```
 
 ### Build app
